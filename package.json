@@ -1,0 +1,12 @@
+{
+  "name": "sqlast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rustamspl@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "json-beautify": "^1.0.1",
+    "mysql2": "^1.6.5",
+    "node-sql-parser": "https://github.com/rustamspl/node-sql-parser.git"
+  }
+}
